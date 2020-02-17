@@ -1,1 +1,1 @@
-web: node bot_fake
+worker: node bot_fake
